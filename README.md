@@ -24,4 +24,4 @@ A detail-oriented and execution-focused Computer Applications student with a hig
 - **Organization:** Strong personal task management and deadline execution.
 
 ---
-📬 **Connect with me:** rajaditya0135@gmail.com | [LinkedIn](https://www.linkedin.com/in/rajaditya0135/)
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/rajaditya0135/)
