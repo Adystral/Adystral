@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aditya Raj 👋
 
-<!--
-**Adystral/Adystral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A detail-oriented and execution-focused Computer Applications student with a high-ownership mindset. I combine technical literacy in web development with strong organizational skills to build projects and manage processes effectively.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), React (Learning)
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Linux (Fedora)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🎬 [Movie Finder Application](https://your-vercel-link-here.com)
+*A fully functional web application integrating REST APIs to search and display movie data.*
+- **Core Skills:** API integration, asynchronous JavaScript, state management, UI/UX optimization.
+- [View Repository](https://github.com/Adystral/MovieFinder)
+
+### 📋 [Task Manager Application](https://your-vercel-link-here.com)
+*A local-storage-powered productivity tool designed for efficient workflow tracking.*
+- **Core Skills:** Data persistence, DOM manipulation, responsive web design, task prioritization logic.
+- [View Repository](https://github.com/Adystral/Task-Manager)
+
+## 📌 Core Competencies
+- **High Ownership:** Taking projects end-to-end from initial requirement gathering to live deployment.
+- **Clear Communication:** Translating complex technical workflows into well-structured, readable documentation.
+- **Organization:** Strong personal task management and deadline execution.
+
+---
+📬 **Connect with me:** rajaditya0135@gmail.com | [LinkedIn](https://www.linkedin.com/in/rajaditya0135/)
