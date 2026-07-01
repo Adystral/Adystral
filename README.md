@@ -7,7 +7,7 @@ A detail-oriented and execution-focused Computer Applications student with a hig
 - **Frameworks/Libraries:** MERN (Learning), Tailwind CSS (Learning)
 - **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Linux (Fedora WS)
 
-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mongodb,expressjs,nodejs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mongodb,expressjs,nodejs,tailwindcss)](https://skillicons.dev)
 
 ## 🚀 Featured Projects
 
