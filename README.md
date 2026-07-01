@@ -3,8 +3,11 @@
 A detail-oriented and execution-focused Computer Applications student with a high-ownership mindset. I combine technical literacy in web development with strong organizational skills to build projects and manage processes effectively.
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** HTML5, CSS3, JavaScript (ES6+), React (Learning)
-- **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Linux (Fedora)
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks/Libraries:** MERN (Learning), Tailwind CSS (Learning)
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Linux (Fedora WS)
+
+- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mongodb,expressjs,nodejs,tailwindcss)](https://skillicons.dev)
 
 ## 🚀 Featured Projects
 
