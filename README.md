@@ -16,7 +16,7 @@ A detail-oriented and execution-focused Computer Applications student with a hig
 - **Core Skills:** API integration, asynchronous JavaScript, state management, UI/UX optimization.
 - [View Repository](https://github.com/Adystral/MovieFinder)
 
-### 📋 [Task Manager Application](https://adystral-to-do-list.vercel.app/)
+### 📋 [Task Manager Application](https://adystral-task-manager.vercel.app/)
 *A local-storage-powered productivity tool designed for efficient workflow tracking.*
 - **Core Skills:** Data persistence, DOM manipulation, responsive web design, task prioritization logic.
 - [View Repository](https://github.com/Adystral/Task-Manager)
