@@ -11,12 +11,12 @@ A detail-oriented and execution-focused Computer Applications student with a hig
 
 ## 🚀 Featured Projects
 
-### 🎬 [Movie Finder Application](https://adystral-movie-finder.vercel.app/)
+### 🎬 Movie Finder Application
 *A fully functional web application integrating REST APIs to search and display movie data.*
 - **Core Skills:** API integration, asynchronous JavaScript, state management, UI/UX optimization.
 - [View Repository](https://github.com/Adystral/MovieFinder) | [View Live Demo](https://adystral-movie-finder.vercel.app/)
 
-### 📋 [Task Manager Application](https://adystral-task-manager.vercel.app/)
+### 📋 Task Manager Application
 *A React-powered productivity tool featuring conditional UI rendering, localized state management, and seamless data persistence.*
 * **Core Skills:** React Hooks, component-based architecture, dynamic array filtering, Tailwind CSS.
 * [View Repository](https://github.com/Adystral/task-manager) | [View Live Demo](https://adystral-task-manager.vercel.app/)
