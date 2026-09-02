@@ -4,7 +4,7 @@ A detail-oriented and execution-focused Computer Applications student with a hig
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries:** MERN (Learning), Tailwind CSS (Learning)
+- **Frameworks/Libraries:** MERN (Learning), Tailwind CSS
 - **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Linux (Fedora WS)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mongodb,expressjs,nodejs,tailwindcss)](https://skillicons.dev)
@@ -16,10 +16,10 @@ A detail-oriented and execution-focused Computer Applications student with a hig
 - **Core Skills:** API integration, asynchronous JavaScript, state management, UI/UX optimization.
 - [View Repository](https://github.com/Adystral/MovieFinder)
 
-### 📋 [Task Manager Application](https://adystral-task-manager.vercel.app/)
-*A local-storage-powered productivity tool designed for efficient workflow tracking.*
-- **Core Skills:** Data persistence, DOM manipulation, responsive web design, task prioritization logic.
-- [View Repository](https://github.com/Adystral/Task-Manager)
+### 📋 [Task Manager Application][(https://adystral-task-manager.vercel.app/)]
+*A React-powered productivity tool featuring conditional UI rendering, localized state management, and seamless data persistence.*
+* **Core Skills:** React Hooks, component-based architecture, dynamic array filtering, Tailwind CSS.
+* [View Repository](https://github.com/Adystral/task-manager) | [View Live Demo](https://adystral-task-manager.vercel.app/)
 
 ## 📌 Core Competencies
 - **High Ownership:** Taking projects end-to-end from initial requirement gathering to live deployment.
